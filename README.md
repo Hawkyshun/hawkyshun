@@ -1,5 +1,5 @@
 ![](./profile-3d-contrib/profile-gitblock.svg)
-![](https://github-readme-stats.vercel.app/api?username=hawkyshun&layout=compact&count_private=true&include_orgs=true&show_icons=true&langs_count=10&hide_border=true&role=owner,collaborator,organization_member&theme=aura&bg_color=000000)
+![](https://github-readme-stats.vercel.app/api?username=hawkyshun&count_private=true&include_orgs=true&show_icons=true&langs_count=10&hide_border=true&role=owner,collaborator,organization_member&theme=aura&bg_color=000000)
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hawkyshun&layout=compact&count_private=true&include_orgs=true&show_icons=true&langs_count=10&hide_border=true&role=owner,collaborator,organization_member&theme=aura&bg_color=000000)
 
 <h1 align="center">Hi 👋, I'm Furkan</h1>
