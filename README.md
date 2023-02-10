@@ -1,6 +1,6 @@
 ![](./profile-3d-contrib/profile-gitblock.svg)
-![Hawkyshun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawkyshun&count_private=true&show_icons=true&theme=aura&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawkyshun&count_private=true&show_icons=true&theme=aura&bg_color=00000000&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Hawkyshun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawkyshun&count_private=false&show_icons=true&theme=aura&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawkyshun&layout=compact&count_private=true&show_icons=true&theme=aura&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Fullstack developer from Turkey</h3>
 
