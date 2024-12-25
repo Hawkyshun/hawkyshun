@@ -59,10 +59,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/hawkyshun/hawkyshun/output/snake.svg" alt="Snake animation" />
-
-###
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hawkyshun&show_icons=true&theme=dark)](https://github.com/hawkyshun)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hawkyshun&theme=dark)](https://github.com/hawkyshun)
-
