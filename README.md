@@ -1,61 +1,69 @@
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hawkyshun&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="165" alt="hawkyshun's most used languages" />
-  <img align="right" height="150" src="https://media1.giphy.com/media/1kkxWqT5nvLXupUTwK/200.gif"  />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6B5BE2&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Furkan;Software+Engineer;AI+%26+Data+Analytics+Developer" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <p>🌐 Visit my personal website: <a href="https://furkanerdogan.me" target="_blank">furkanerdogan.me</a></p>
+  
+  <img src="https://komarev.com/ghpvc/?username=hawkyshun&style=for-the-badge&color=6B5BE2" alt="Profile Views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawkyshun&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hawkyshun&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="Most Used Languages" />
+</div>
+
+<br/>
+
+### 🚀 About Me
+
+```typescript
+const furkan = {
+    role: "Software Engineer",
+    focus: "AI & Data Analytics",
+    company: "Softtech",
+    interests: ["AI", "Machine Learning", "Web Development", "Chatbots"],
+    technologies: {
+        frontend: ["React", "TypeScript", "JavaScript"],
+        backend: ["Python", "Node.js", "FastAPI"],
+        ai: ["Rasa", "Botfront", "NLP"],
+        devOps: ["Docker", "Kubernetes", "Azure"],
+        databases: ["MongoDB"]
+    }
+};
+```
 
 ### 🛠 Tech Stack
 
-#### 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,ts,react,docker,kubernetes,mongodb,azure,graphql&theme=dark" />
 </div>
 
-#### 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux"/>
+<br/>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hawkyshun&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
-#### 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat"/>
-</div>
-
-#### 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter"/>
-</div>
-
-#### 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="30" alt="confluence"/>
-  <img src="https://asset.brandfetch.io/idEaAShmlC/idBNOLCxPF.svg" height="30" alt="uipath"/>
-</div>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/hawkyshun/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIN&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:furkanerdogan2300@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
-###
+<br/>
 
-<br clear="both">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hawkyshun/hawkyshun/output/snake.svg" alt="Snake animation" />
+</div>
 
-<img src="https://raw.githubusercontent.com/hawkyshun/hawkyshun/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6B5BE2&height=100&section=footer" />
+</div>
