@@ -15,10 +15,6 @@
 ### 👁️ Realm Visitors
 ![](https://komarev.com/ghpvc/?username=hawkyshun&color=00B300&style=for-the-badge&label=WARRIORS+VISITED)
 
-### ⚡ Battle Statistics
-![Code Time](http://img.shields.io/badge/Code%20Time-2,000%20hrs-00B300?style=for-the-badge)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-00B300?style=for-the-badge)
-
 ### 🎵 Warrior's Current Anthem
 <div align="center" style="margin: 20px 0;">
   <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4gYwyAkQSRaY3r5YsnqBzT?utm_source=generator&theme=0" width="50%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
