@@ -15,12 +15,7 @@
 ### 👁️ Realm Visitors
 ![](https://komarev.com/ghpvc/?username=hawkyshun&color=00B300&style=for-the-badge&label=WARRIORS+VISITED)
 
-### 🎵 Warrior's Current Anthem
-<div align="center">
-  <a href="https://open.spotify.com/playlist/4gYwyAkQSRaY3r5YsnqBzT?utm_source=generator&theme=0" target="_blank">
-    <img src="https://img.shields.io/badge/Warrior's_Anthem-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist"/>
-  </a>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -44,6 +39,7 @@
   <h2>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
     𝕊𝕜𝕚𝕝𝕝 𝕋𝕣𝕖𝕖 𝕠𝕗 𝕋𝕙𝕖 𝔸𝕟𝕔𝕚𝕖𝕟𝕥 ℂ𝕠𝕕𝕖
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
   </h2>
 </div>
 
@@ -89,29 +85,41 @@ const warrior = {
 };
 ```
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ### ⚔️ Combat Stats
-| Skill          | Level     | Experience    |
-|----------------|-----------|---------------|
-| AI & ML        | ████░░░░░ | Intermediate  |
-| Web Dev        | █████░░░░ | Intermediate+ |
-| Cloud Tech     | ████░░░░░ | Intermediate  |
-| System Design  | ███░░░░░░ | Learning      |
+<div align="center">
+
+| Skill          | Progress Bar                                                  | Level        |
+|----------------|--------------------------------------------------------------|--------------|
+| AI & ML        | ![](https://progress-bar.dev/70/?scale=100&width=500&color=00B300) | Intermediate |
+| Web Dev        | ![](https://progress-bar.dev/80/?scale=100&width=500&color=00B300) | Advanced     |
+| Cloud Tech     | ![](https://progress-bar.dev/75/?scale=100&width=500&color=00B300) | Intermediate |
+| System Design  | ![](https://progress-bar.dev/60/?scale=100&width=500&color=00B300) | Learning     |
+
+</div>
 
 <div align="center">
   <h3>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
     ⚔️ 𝕎𝕖𝕒𝕡𝕠𝕟𝕤 𝕠𝕗 ℂ𝕙𝕠𝕚𝕔𝕖 ⚔️
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </h3>
   
   <img src="https://skillicons.dev/icons?i=python,ts,react,nodejs,fastapi,docker,kubernetes,mongodb,azure,graphql&theme=dark" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <div align="center">
   <h3>
     <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
     🏆 𝔹𝕒𝕥𝕥𝕝𝕖 𝔸𝕔𝕙𝕚𝕖𝕧𝕖𝕞𝕖𝕟𝕥𝕤 🏆
+    <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
   </h3>
   <img src="https://github-profile-trophy.vercel.app/?username=hawkyshun&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
@@ -124,6 +132,9 @@ const warrior = {
 </div>
 
 <div align="center">
+<a href="https://open.spotify.com/playlist/4gYwyAkQSRaY3r5YsnqBzT?utm_source=generator&theme=0" target="_blank">
+    <img src="https://img.shields.io/badge/Warrior's_Anthem-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist"/>
+  </a>
   <a href="https://www.linkedin.com/in/hawkyshun/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00B300?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -136,6 +147,7 @@ const warrior = {
 </div>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <img src="https://github.com/Hawkyshun/hawkyshun/blob/output/snake.svg" />
 </div>
 
