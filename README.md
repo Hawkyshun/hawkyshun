@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Norse&size=65&duration=2000&pause=1000&color=FF2D2D&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=175&lines=FURKAN+ERDO%C4%9EAN;%E1%9A%A8%E1%9B%9F%E1%9A%A6+%E1%9A%B1%E1%9A%A8%E1%9B%9A%E1%9A%B3%E1%9A%A6%E1%9A%A8%E1%9B%9A%E1%9A%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MedievalSharp&size=65&duration=2000&pause=1000&color=FF2D2D&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=175&lines=FURKAN+ERDO%C4%9EAN;%E1%9A%A8%E1%9B%9F%E1%9A%A6+%E1%9A%B1%E1%9A%A8%E1%9B%9A%E1%9A%B3%E1%9A%A6%E1%9A%A8%E1%9B%9A%E1%9A%B3)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://furkanerdogan.me" target="_blank">
@@ -6,28 +6,45 @@
   </a>
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF2D2D&center=true&vCenter=true&repeat=true&width=435&lines=AI+%26+Data+Analytics+Engineer;Full+Stack+Developer;Cloud+Solutions+Architect" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  
+### 👁️ Realm Visitors
+![](https://komarev.com/ghpvc/?username=hawkyshun&color=FF2D2D&style=for-the-badge&label=WARRIORS+VISITED)
+
+### ⚡ Battle Statistics
+![Code Time](http://img.shields.io/badge/Code%20Time-2,000%20hrs-FF2D2D?style=for-the-badge)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-FF2D2D?style=for-the-badge)
+
+### 🎵 Warrior's Current Anthem
+[![Spotify](https://novatorem-hawkyshun.vercel.app/api/spotify)](https://open.spotify.com/user/11161750127)
+
+</div>
 
 <div align="center">
   <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawkyshun&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=000000&title_color=FF2D2D&text_color=ffffff&icon_color=FF2D2D&border_color=FF2D2D" />
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=hawkyshun&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&bg_color=000000&title_color=FF2D2D&text_color=ffffff&icon_color=FF2D2D&border_color=FF2D2D" />
 </div>
 
-<br/>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawkyshun&theme=dark&hide_border=true&background=000000&border=FF2D2D&fire=FF2D2D&ring=FF2D2D&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF2D2D&sideLabels=FF2D2D&dates=ffffff" />
 </div>
 
-```css
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```
+### 🗺️ Battle Activity Map
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hawkyshun&theme=dracula&bg_color=000000&color=FF2D2D&line=FF2D2D&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <h2>𝕊𝕜𝕚𝕝𝕝 𝕋𝕣𝕖𝕖 𝕠𝕗 𝕋𝕙𝕖 𝔸𝕟𝕔𝕚𝕖𝕟𝕥 ℂ𝕠𝕔𝕖</h2>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%">
+</div>
+
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+    𝕊𝕜𝕚𝕝𝕝 𝕋𝕣𝕖𝕖 𝕠𝕗 𝕋𝕙�� 𝔸𝕟𝕔𝕚𝕖𝕟𝕥 ℂ𝕠𝕔𝕖
+  </h2>
 </div>
 
 ```typescript
@@ -37,6 +54,13 @@ const warrior = {
     clan: "Softtech",
     class: "Software Engineer",
     specialization: "AI & Data Analytics",
+    
+    // Status & Location
+    status: {
+        current: "⚔️ On a Quest",
+        location: "🗺️ Digital Realm of Turkey",
+        availability: "🟢 Available for Epic Battles"
+    },
     
     // Ancient Weapons
     primaryWeapons: {
@@ -65,41 +89,65 @@ const warrior = {
 };
 ```
 
+### 🏹 Arsenal
+![Python](https://img.shields.io/badge/Python%20Master-%23FF2D2D.svg?style=for-the-badge&logo=Python&logoColor=white&color=FF2D2D)
+![AI Sage](https://img.shields.io/badge/AI%20Sage-%23FF2D2D.svg?style=for-the-badge&logo=tensorflow&logoColor=white&color=FF2D2D)
+![Cloud Walker](https://img.shields.io/badge/Cloud%20Walker-%23FF2D2D.svg?style=for-the-badge&logo=kubernetes&logoColor=white&color=FF2D2D)
+
+### ⚔️ Combat Stats
+| Skill          | Level     | Experience    |
+|----------------|-----------|---------------|
+| AI & ML        | ████░░░░░ | Intermediate  |
+| Web Dev        | █████░░░░ | Intermediate+ |
+| Cloud Tech     | ████░░░░░ | Intermediate  |
+| System Design  | ███░░░░░░ | Learning      |
+
 <div align="center">
-  <h3>⚔️ 𝕎𝕖𝕒𝕡𝕠𝕟𝕤 𝕠𝕗 ℂ𝕙𝕠𝕚𝕔𝕖 ⚔️</h3>
+  <h3>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    ⚔️ 𝕎𝕖𝕒𝕡𝕠𝕟𝕤 𝕠𝕗 ℂ𝕙𝕠𝕚𝕔𝕖 ⚔️
+  </h3>
+  
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Tree+of+Power&borderRadius=5&fontSize=20&lineHeight=10&lineCount=2&theme=github_dark&gap=12&line1=python,Python,3776AB;typescript,TypeScript,3178C6;react,React,61DAFB;&line2=docker,Docker,2496ED;kubernetes,Kubernetes,326CE5;mongodb,MongoDB,47A248;" alt="Tech Stack" />
+  
   <img src="https://skillicons.dev/icons?i=python,ts,react,nodejs,fastapi,docker,kubernetes,mongodb,azure,graphql&theme=dark" />
-  
-  <br/>
-  <br/>
-  
-  <h3>🏆 𝔹𝕒𝕥𝕥𝕝𝕖 𝔸𝕔𝕙𝕚𝕖𝕧𝕖𝕞𝕖𝕟𝕥𝕤 🏆</h3>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>
+    <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
+    🏆 𝔹𝕒𝕥𝕥𝕝𝕖 𝔸𝕔𝕙𝕚𝕖𝕧𝕖𝕞𝕖𝕟𝕥𝕤 🏆
+  </h3>
   <img src="https://github-profile-trophy.vercel.app/?username=hawkyshun&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
 
-<br/>
+### 🏔️ Conquest Map
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hawkyshun/" target="_blank">
-    <img src="https://img.shields.io/badge/Join_The_Guild-FF2D2D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Join_The_Guild-%23FF2D2D.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=FF2D2D" alt="LinkedIn"/>
   </a>
   <a href="mailto:furkanerdogan2300@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Raven-FF2D2D?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Send_Raven-%23FF2D2D.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=FF2D2D" alt="Gmail"/>
   </a>
   <a href="https://furkanerdogan.me" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_Stronghold-FF2D2D?style=for-the-badge&logo=Fortress&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Visit_Stronghold-%23FF2D2D.svg?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=FF7139&color=FF2D2D" alt="Website"/>
   </a>
 </div>
 
-<br/>
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hawkyshun/hawkyshun/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hawkyshun/hawkyshun/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/hawkyshun/hawkyshun/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://github.com/hawkyshun/hawkyshun/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF2D2D&height=150&section=footer&text=FORGE%20YOUR%20DESTINY&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=FF2D2D&section=footer" />
