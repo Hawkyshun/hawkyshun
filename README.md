@@ -136,10 +136,10 @@ const warrior = {
     <img src="https://img.shields.io/badge/Warrior's_Anthem-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist"/>
   </a>
   <a href="https://www.linkedin.com/in/hawkyshun/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00B300?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-006400?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:furkanerdogan2300@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Raven-%2300B300.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0066CC&color=00B300" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Send_Raven-%23006400.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0066CC&color=00B300" alt="Gmail"/>
   </a>
   <a href="https://furkanerdogan.me" target="_blank">
     <img src="https://img.shields.io/badge/Visit_Stronghold-%2300B300.svg?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=0066CC&color=00B300" alt="Website"/>
@@ -155,4 +155,4 @@ const warrior = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B300&height=150&section=footer&text=CODE%20YOUR%20DESTINY&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=00B300&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=006400&section=footer" />
