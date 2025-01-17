@@ -1,7 +1,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hawkyshun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hawkyshun&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="165" alt="hawkyshun's most used languages" />
   <img align="right" height="150" src="https://media1.giphy.com/media/1kkxWqT5nvLXupUTwK/200.gif"  />
 </div>
 
