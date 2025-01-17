@@ -1,23 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MedievalSharp&size=65&duration=2000&pause=1000&color=FF2D2D&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=175&lines=FURKAN+ERDO%C4%9EAN;%E1%9A%A8%E1%9B%9F%E1%9A%A6+%E1%9A%B1%E1%9A%A8%E1%9B%9A%E1%9A%B3%E1%9A%A6%E1%9A%A8%E1%9B%9A%E1%9A%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MedievalSharp&size=65&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=175&lines=FURKAN+ERDO%C4%9EAN;%E1%9A%A8%E1%9B%9F%E1%9A%A6+%E1%9A%B1%E1%9A%A8%E1%9B%9A%E1%9A%B3%E1%9A%A6%E1%9A%A8%E1%9B%9A%E1%9A%B3)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://furkanerdogan.me" target="_blank">
-    <img width="800" src="https://capsule-render.vercel.app/api?type=waving&color=FF2D2D&height=190&section=header&text=SOFTWARE%20WARRIOR&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Coding%20with%20Honor%20/%20Building%20with%20Wisdom&descAlignY=55&descAlign=50" />
+    <img width="800" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=190&section=header&text=SOFTWARE%20WARRIOR&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Coding%20with%20Honor%20/%20Building%20with%20Wisdom&descAlignY=55&descAlign=50" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF2D2D&center=true&vCenter=true&repeat=true&width=435&lines=AI+%26+Data+Analytics+Engineer;Full+Stack+Developer;Cloud+Solutions+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=435&lines=AI+%26+Data+Analytics+Engineer;Full+Stack+Developer;Cloud+Solutions+Architect" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
 ### 👁️ Realm Visitors
-![](https://komarev.com/ghpvc/?username=hawkyshun&color=FF2D2D&style=for-the-badge&label=WARRIORS+VISITED)
+![](https://komarev.com/ghpvc/?username=hawkyshun&color=00FF00&style=for-the-badge&label=WARRIORS+VISITED)
 
 ### ⚡ Battle Statistics
-![Code Time](http://img.shields.io/badge/Code%20Time-2,000%20hrs-FF2D2D?style=for-the-badge)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-FF2D2D?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-2,000%20hrs-00FF00?style=for-the-badge)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-00FF00?style=for-the-badge)
 
 ### 🎵 Warrior's Current Anthem
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4gYwyAkQSRaY3r5YsnqBzT?utm_source=generator&theme=0" width="50%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -25,16 +25,16 @@
 </div>
 
 <div align="center">
-  <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawkyshun&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=000000&title_color=FF2D2D&text_color=ffffff&icon_color=FF2D2D&border_color=FF2D2D" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=hawkyshun&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&bg_color=000000&title_color=FF2D2D&text_color=ffffff&icon_color=FF2D2D&border_color=FF2D2D" />
+  <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawkyshun&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=000000&title_color=00FF00&text_color=ffffff&icon_color=0000FF&border_color=00FF00" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=hawkyshun&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&bg_color=000000&title_color=00FF00&text_color=ffffff&icon_color=0000FF&border_color=00FF00" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawkyshun&theme=dark&hide_border=true&background=000000&border=FF2D2D&fire=FF2D2D&ring=FF2D2D&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF2D2D&sideLabels=FF2D2D&dates=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawkyshun&theme=dark&hide_border=true&background=000000&border=00FF00&fire=0000FF&ring=00FF00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF00&sideLabels=00FF00&dates=ffffff" />
 </div>
 
 ### 🗺️ Battle Activity Map
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hawkyshun&theme=dracula&bg_color=000000&color=FF2D2D&line=FF2D2D&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hawkyshun&theme=dracula&bg_color=000000&color=00FF00&line=00FF00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%">
@@ -125,22 +125,22 @@ const warrior = {
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hawkyshun/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FF2D2D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:furkanerdogan2300@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Raven-%23FF2D2D.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=FF2D2D" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Send_Raven-%2300FF00.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0000FF&color=00FF00" alt="Gmail"/>
   </a>
   <a href="https://furkanerdogan.me" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_Stronghold-%23FF2D2D.svg?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=FF7139&color=FF2D2D" alt="Website"/>
+    <img src="https://img.shields.io/badge/Visit_Stronghold-%2300FF00.svg?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=0000FF&color=00FF00" alt="Website"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/hawkyshun/hawkyshun/blob/output/github-snake-dark.svg" />
+  <img src="https://github.com/Hawkyshun/hawkyshun/blob/output/snake.svg" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF2D2D&height=150&section=footer&text=FORGE%20YOUR%20DESTINY&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=150&section=footer&text=FORGE%20YOUR%20DESTINY&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=FF2D2D&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=00FF00&section=footer" />
