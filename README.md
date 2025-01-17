@@ -34,7 +34,7 @@
 <div align="center">
   <h2>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
-    𝕊𝕜𝕚𝕝𝕝 𝕋𝕣𝕖𝕖 𝕠𝕗 𝕋𝕙𝕖 𝔸𝕟𝕔𝕚𝕖𝕟𝕥 ℂ𝕠�𝕖
+    𝕊𝕜𝕚𝕝𝕝 𝕋𝕣𝕖𝕖 𝕠𝕗 𝕋𝕙𝕖 𝔸𝕟𝕔𝕚𝕖𝕟𝕥 ℂ𝕠𝕕𝕖
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
   </h2>
 </div>
@@ -90,10 +90,10 @@ const warrior = {
 
 | Skill          | Progress Bar                                                  | Level        |
 |----------------|--------------------------------------------------------------|--------------|
-| AI & ML        | ![](https://progress-bar.xyz/70/?title=AI%20%26%20ML&width=300&color=00B300) | Intermediate |
-| Web Dev        | ![](https://progress-bar.xyz/80/?title=Web%20Dev&width=300&color=00B300) | Advanced     |
-| Cloud Tech     | ![](https://progress-bar.xyz/75/?title=Cloud%20Tech&width=300&color=00B300) | Intermediate |
-| System Design  | ![](https://progress-bar.xyz/60/?title=System%20Design&width=300&color=00B300) | Learning     |
+| AI & ML        | ![Progress](https://progress-bar.xyz/70/?title=AI%20%26%20ML&width=300&color=00B300) | Intermediate |
+| Web Dev        | ![Progress](https://progress-bar.xyz/80/?title=Web%20Dev&width=300&color=00B300) | Advanced     |
+| Cloud Tech     | ![Progress](https://progress-bar.xyz/75/?title=Cloud%20Tech&width=300&color=00B300) | Intermediate |
+| System Design  | ![Progress](https://progress-bar.xyz/60/?title=System%20Design&width=300&color=00B300) | Learning     |
 
 </div>
 
