@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://furkanerdogan.me" target="_blank">
-    <img width="800" src="https://capsule-render.vercel.app/api?type=waving&color=00B300&height=190&section=header&text=SOFTWARE%20WARRIOR&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Coding%20with%20Honor%20/%20Building%20with%20Wisdom&descAlignY=55&descAlign=50" />
+    <img width="800" src="https://capsule-render.vercel.app/api?type=shark&color=00B300&height=190&section=header&text=SOFTWARE%20WARRIOR&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Coding%20with%20Honor%20/%20Building%20with%20Wisdom&descAlignY=55&descAlign=50" />
   </a>
 </div>
 
@@ -22,10 +22,6 @@
 <div align="center">
   <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawkyshun&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=000000&title_color=00B300&text_color=ffffff&icon_color=0066CC&border_color=00B300" />
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=hawkyshun&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&bg_color=000000&title_color=00B300&text_color=ffffff&icon_color=0066CC&border_color=00B300" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawkyshun&theme=dark&hide_border=true&background=000000&border=00B300&fire=0066CC&ring=00B300&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00B300&sideLabels=00B300&dates=ffffff" />
 </div>
 
 ### 🗺️ Battle Activity Map
@@ -155,4 +151,27 @@ const warrior = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B300&height=150&section=footer&text=CODE%20YOUR%20DESTINY&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=006400&section=footer" />
+<div align="center">
+<pre style="color: #00B300;">
+                    /\      /\
+                   /  \    /  \
+                  |    \__/    |
+                  |  ⚔️  \/  ⚔️ |
+                   \  /\  /\  /
+                    \/  \/  \/
+
+</pre>
+
+<pre style="color: #00B300;">
+     |    |    |                     
+    )_)  )_)  )_)                    
+   )___))___))___)\                  
+  )____)____)_____)\\                
+_____|____|____|____\\\__            
+\                      /             
+ ^^^^^ ^^^^^^^^^^^^^^^^^^^^^         
+   ^^^^      ^^^^     ^^^    ^^      
+        ^^^^      ^^^                 
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=006400&fontAlign=74&section=header" />
