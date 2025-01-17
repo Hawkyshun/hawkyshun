@@ -88,12 +88,10 @@ const warrior = {
 ### ⚔️ Combat Stats
 <div align="center">
 
-| Skill          | Progress Bar                                                  | Level        |
-|----------------|--------------------------------------------------------------|--------------|
-| AI & ML        | ![Progress](https://progress-bar.xyz/63/?title=AI%20%26%20ML&width=300&color=00B300) | Intermediate |
-| Web Dev        | ![Progress](https://progress-bar.xyz/77/?title=Web%20Dev&width=300&color=00B300) | Advanced     |
-| Cloud Tech     | ![Progress](https://progress-bar.xyz/37/?title=Cloud%20Tech&width=300&color=00B300) | Learning |
-| Mobile Design  | ![Progress](https://progress-bar.xyz/11/?title=System%20Design&width=300&color=00B300) | Learning     |
+![Progress](https://progress-bar.xyz/63/?title=AI%20%26%20ML&width=300&color=00B300) | Intermediate |
+![Progress](https://progress-bar.xyz/77/?title=Web%20Dev&width=300&color=00B300) | Advanced     |
+![Progress](https://progress-bar.xyz/37/?title=Cloud%20Tech&width=300&color=00B300) | Learning |
+![Progress](https://progress-bar.xyz/11/?title=System%20Design&width=300&color=00B300) | Learning     |
 
 </div>
 
