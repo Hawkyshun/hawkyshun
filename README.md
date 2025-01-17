@@ -34,7 +34,7 @@
 <div align="center">
   <h2>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
-    𝕊𝕜𝕚𝕝𝕝 𝕋𝕣𝕖𝕖 𝕠𝕗 𝕋𝕙𝕖 𝔸𝕟𝕔𝕚𝕖𝕟𝕥 ℂ𝕠�𝕖
+    𝕊𝕜𝕚𝕝𝕝 𝕋𝕣𝕖𝕖 𝕠𝕗 𝕋𝕙𝕖 𝔸𝕟𝕔𝕚𝕖𝕟𝕥 ℂ𝕠𝕕𝕖
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
   </h2>
 </div>
@@ -88,7 +88,8 @@ const warrior = {
 ### ⚔️ Combat Stats
 <div align="center">
 
-
+| Level | Progress |
+|--------|----------|
 | Intermediate | ![Progress](https://progress-bar.xyz/63/?title=AI%20%26%20ML&width=300&color=00B300) |
 | Advanced | ![Progress](https://progress-bar.xyz/77/?title=Web%20Dev&width=300&color=00B300) |
 | Learning | ![Progress](https://progress-bar.xyz/37/?title=Cloud%20Tech&width=300&color=00B300) |
