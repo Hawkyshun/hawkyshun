@@ -34,7 +34,7 @@
 <div align="center">
   <h2>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
-    𝕊𝕜𝕚𝕝𝕝 𝕋𝕣𝕖𝕖 𝕠𝕗 𝕋𝕙𝕖 𝔸𝕟𝕔𝕚𝕖𝕟𝕥 ℂ𝕠𝕕𝕖
+    𝕊𝕜𝕚𝕝𝕝 𝕋𝕣𝕖𝕖 𝕠𝕗 𝕋𝕙𝕖 𝔸𝕟𝕔𝕚𝕖𝕟𝕥 ℂ𝕠�𝕖
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
   </h2>
 </div>
@@ -90,10 +90,10 @@ const warrior = {
 
 | Skill          | Progress Bar                                                  | Level        |
 |----------------|--------------------------------------------------------------|--------------|
-| AI & ML        | ![](https://progress-bar.dev/70/?scale=100&width=500&color=00B300) | Intermediate |
-| Web Dev        | ![](https://progress-bar.dev/80/?scale=100&width=500&color=00B300) | Advanced     |
-| Cloud Tech     | ![](https://progress-bar.dev/75/?scale=100&width=500&color=00B300) | Intermediate |
-| System Design  | ![](https://progress-bar.dev/60/?scale=100&width=500&color=00B300) | Learning     |
+| AI & ML        | ![](https://progress-bar.xyz/70/?title=AI%20%26%20ML&width=300&color=00B300) | Intermediate |
+| Web Dev        | ![](https://progress-bar.xyz/80/?title=Web%20Dev&width=300&color=00B300) | Advanced     |
+| Cloud Tech     | ![](https://progress-bar.xyz/75/?title=Cloud%20Tech&width=300&color=00B300) | Intermediate |
+| System Design  | ![](https://progress-bar.xyz/60/?title=System%20Design&width=300&color=00B300) | Learning     |
 
 </div>
 
@@ -120,9 +120,6 @@ const warrior = {
   <img src="https://github-profile-trophy.vercel.app/?username=hawkyshun&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
 
-### 🏔️ Conquest Map
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
@@ -141,37 +138,12 @@ const warrior = {
     <img src="https://img.shields.io/badge/Visit_Stronghold-%2300B300.svg?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=0066CC&color=00B300" alt="Website"/>
   </a>
 </div>
-
+### 🏔️ Conquest Map
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <img src="https://github.com/Hawkyshun/hawkyshun/blob/output/snake.svg" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B300&height=150&section=footer&text=CODE%20YOUR%20DESTINY&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=00B300&height=150&section=footer&text=CODE%20YOUR%20DESTINY&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
 </div>
-
-<div align="center">
-<pre style="color: #00B300;">
-                    /\      /\
-                   /  \    /  \
-                  |    \__/    |
-                  |  ⚔️  \/  ⚔️ |
-                   \  /\  /\  /
-                    \/  \/  \/
-
-</pre>
-
-<pre style="color: #00B300;">
-     |    |    |                     
-    )_)  )_)  )_)                    
-   )___))___))___)\                  
-  )____)____)_____)\\                
-_____|____|____|____\\\__            
-\                      /             
- ^^^^^ ^^^^^^^^^^^^^^^^^^^^^         
-   ^^^^      ^^^^     ^^^    ^^      
-        ^^^^      ^^^                 
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=006400&fontAlign=74&section=header" />
