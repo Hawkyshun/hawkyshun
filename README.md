@@ -16,8 +16,8 @@
 ![](https://komarev.com/ghpvc/?username=hawkyshun&color=00B300&style=for-the-badge&label=WARRIORS+VISITED)
 
 ### 🎵 Warrior's Current Anthem
-<div align="center" style="margin: 20px 0;">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4gYwyAkQSRaY3r5YsnqBzT?utm_source=generator&theme=0" width="50%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div align="center">
+  [![Spotify](https://novatorem-hawkyshun.vercel.app/api/spotify)](https://open.spotify.com/user/11161750127)
 </div>
 
 </div>
