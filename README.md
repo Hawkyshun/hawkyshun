@@ -17,7 +17,9 @@
 
 ### 🎵 Warrior's Current Anthem
 <div align="center">
-  [![Spotify](https://novatorem-hawkyshun.vercel.app/api/spotify)](https://open.spotify.com/user/11161750127)
+  <a href="https://open.spotify.com/playlist/4gYwyAkQSRaY3r5YsnqBzT?utm_source=generator&theme=0" target="_blank">
+    <img src="https://img.shields.io/badge/Warrior's_Anthem-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist"/>
+  </a>
 </div>
 
 </div>
