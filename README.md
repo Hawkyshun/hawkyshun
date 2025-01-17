@@ -20,7 +20,7 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-FF2D2D?style=for-the-badge)
 
 ### 🎵 Warrior's Current Anthem
-[![Spotify](https://novatorem-hawkyshun.vercel.app/api/spotify)](https://open.spotify.com/user/11161750127)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4gYwyAkQSRaY3r5YsnqBzT?utm_source=generator&theme=0" width="50%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 </div>
 
@@ -43,7 +43,7 @@
 <div align="center">
   <h2>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
-    𝕊𝕜𝕚𝕝𝕝 𝕋𝕣𝕖𝕖 𝕠𝕗 𝕋𝕙�� 𝔸𝕟𝕔𝕚𝕖𝕟𝕥 ℂ𝕠𝕔𝕖
+    𝕊𝕜𝕚𝕝𝕝 𝕋𝕣𝕖𝕖 𝕠𝕗 𝕋𝕙𝕖 𝔸𝕟𝕔𝕚𝕖𝕟𝕥 ℂ𝕠𝕕𝕖
   </h2>
 </div>
 
@@ -89,11 +89,6 @@ const warrior = {
 };
 ```
 
-### 🏹 Arsenal
-![Python](https://img.shields.io/badge/Python%20Master-%23FF2D2D.svg?style=for-the-badge&logo=Python&logoColor=white&color=FF2D2D)
-![AI Sage](https://img.shields.io/badge/AI%20Sage-%23FF2D2D.svg?style=for-the-badge&logo=tensorflow&logoColor=white&color=FF2D2D)
-![Cloud Walker](https://img.shields.io/badge/Cloud%20Walker-%23FF2D2D.svg?style=for-the-badge&logo=kubernetes&logoColor=white&color=FF2D2D)
-
 ### ⚔️ Combat Stats
 | Skill          | Level     | Experience    |
 |----------------|-----------|---------------|
@@ -107,8 +102,6 @@ const warrior = {
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
     ⚔️ 𝕎𝕖𝕒𝕡𝕠𝕟𝕤 𝕠𝕗 ℂ𝕙𝕠𝕚𝕔𝕖 ⚔️
   </h3>
-  
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Tree+of+Power&borderRadius=5&fontSize=20&lineHeight=10&lineCount=2&theme=github_dark&gap=12&line1=python,Python,3776AB;typescript,TypeScript,3178C6;react,React,61DAFB;&line2=docker,Docker,2496ED;kubernetes,Kubernetes,326CE5;mongodb,MongoDB,47A248;" alt="Tech Stack" />
   
   <img src="https://skillicons.dev/icons?i=python,ts,react,nodejs,fastapi,docker,kubernetes,mongodb,azure,graphql&theme=dark" />
 </div>
@@ -132,7 +125,7 @@ const warrior = {
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hawkyshun/" target="_blank">
-    <img src="https://img.shields.io/badge/Join_The_Guild-%23FF2D2D.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=FF2D2D" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-FF2D2D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:furkanerdogan2300@gmail.com">
     <img src="https://img.shields.io/badge/Send_Raven-%23FF2D2D.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=FF2D2D" alt="Gmail"/>
@@ -143,7 +136,7 @@ const warrior = {
 </div>
 
 <div align="center">
-  <img src="https://github.com/hawkyshun/hawkyshun/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/hawkyshun/hawkyshun/blob/output/github-snake-dark.svg" />
 </div>
 
 <div align="center">
