@@ -43,7 +43,7 @@
 const warrior = {
     name: "Furkan",
     title: "Code Warrior of the Digital Realm",
-    clan: "Softtech",
+    clan: "Freelancer",
     class: "Software Engineer",
     specialization: "AI & Data Analytics",
     
